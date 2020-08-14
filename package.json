@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://github.com/salongajudy27/portfolio/index.html",
+  "homepage": "https://github.com/salongajudy27/portfolio",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
